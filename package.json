@@ -1,0 +1,16 @@
+{
+  "name": "veritatisquia",
+  "devDependencies": {
+    "inquirer": "^7.3.3",
+    "lerna": "^3.22.1",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.1.2"
+  },
+  "author": "ColinWiegand",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VernaDenesik/veritatisquia.git"
+  },
+  "homepage": "https://github.com/VernaDenesik/veritatisquia.git",
+  "version": "1.0.0"
+}
